@@ -5,7 +5,7 @@
 A fun, meme-style app built using **Flutter** that calculates dowry amounts based on various inputs like income, land ownership, social media influence, and more. The app presents humorous dowry estimates along with a suitable car recommendation based on the calculated amount!
 
 
-## **Download Apk**: [Here](https://github.com/BlackHatDevX/dowry_calculator/releases/download/v1.0.0/app-release.apk)
+## **Download Apk**: [HERE](https://github.com/BlackHatDevX/dowry_calculator/releases/download/v1.0.0/app-release.apk)
 
 ## 🚀 **Features**
 
