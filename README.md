@@ -21,9 +21,15 @@ A fun, meme-style app built using **Flutter** that calculates dowry amounts base
 
 
 
-## 📱 **Screenshots**
+## 📱 **Preview**
 
-Soon...
+
+
+https://github.com/user-attachments/assets/053e0fb8-7a70-4b94-9b2d-9ff2b688dc2b
+
+
+
+
 
 ---
 
