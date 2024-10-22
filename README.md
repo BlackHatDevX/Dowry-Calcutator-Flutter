@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/053e0fb8-7a70-4b94-9b2d-9ff2b688dc2b
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/BlackHatDevX/Dowry-Calculator-App.git
+   git clone https://github.com/BlackHatDevX/Dowry-Calcutator-Flutter.git
    ```
 
 2. **Navigate to the project directory:**
